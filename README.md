@@ -4,6 +4,10 @@ This repo contains the slide decks from our Cloud Native Bern Meetup: <https://w
 
 Please refer to the subdirectories for the specific meetups.
 
+## Cloud Native Bern Meetup, August 2025
+
+* [Grafana Tempo & OpenTelemetry: Distributed Tracing Made Easy](2025-08-21_meetup/distributed_tracing.pdf) (Thomas Philipona, Tim&Koko)
+
 ## Cloud Native Bern Meetup, August 2024
 
 * [Kubenurse: The In-Cluster Nurse Making Network Rounds](2024-08-28_meetup/kubenurse.pdf) (Clément Nussbaumer, PostFinance)
